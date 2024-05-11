@@ -15,7 +15,7 @@ const nextConfig = {
         exposes: {
           './footer': './src/components/Footer.js',
           './nav': './src/components/Nav.js'
-        }
+        },
       })
     );
     return config;

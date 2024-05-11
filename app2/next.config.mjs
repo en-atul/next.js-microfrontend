@@ -16,8 +16,8 @@ const nextConfig = {
           './card': "./src/components/Card.js"
         },
         extraOptions: {
-          exposePages: true
-        }
+          exposePages: true,
+        },
       })
     );
     return config;
